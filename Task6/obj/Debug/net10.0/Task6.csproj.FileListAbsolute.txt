@@ -1,0 +1,14 @@
+/Users/alphadaemon/Programs/C#/Week1/Task6/bin/Debug/net10.0/Task6
+/Users/alphadaemon/Programs/C#/Week1/Task6/bin/Debug/net10.0/Task6.deps.json
+/Users/alphadaemon/Programs/C#/Week1/Task6/bin/Debug/net10.0/Task6.runtimeconfig.json
+/Users/alphadaemon/Programs/C#/Week1/Task6/bin/Debug/net10.0/Task6.dll
+/Users/alphadaemon/Programs/C#/Week1/Task6/bin/Debug/net10.0/Task6.pdb
+/Users/alphadaemon/Programs/C#/Week1/Task6/obj/Debug/net10.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alphadaemon/Programs/C#/Week1/Task6/obj/Debug/net10.0/Task6.AssemblyInfoInputs.cache
+/Users/alphadaemon/Programs/C#/Week1/Task6/obj/Debug/net10.0/Task6.AssemblyInfo.cs
+/Users/alphadaemon/Programs/C#/Week1/Task6/obj/Debug/net10.0/Task6.csproj.CoreCompileInputs.cache
+/Users/alphadaemon/Programs/C#/Week1/Task6/obj/Debug/net10.0/Task6.dll
+/Users/alphadaemon/Programs/C#/Week1/Task6/obj/Debug/net10.0/refint/Task6.dll
+/Users/alphadaemon/Programs/C#/Week1/Task6/obj/Debug/net10.0/Task6.pdb
+/Users/alphadaemon/Programs/C#/Week1/Task6/obj/Debug/net10.0/Task6.genruntimeconfig.cache
+/Users/alphadaemon/Programs/C#/Week1/Task6/obj/Debug/net10.0/ref/Task6.dll
